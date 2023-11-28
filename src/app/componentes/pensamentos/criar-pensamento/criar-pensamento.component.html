@@ -92,7 +92,8 @@
     </div>
     <div class="acoes">
       <button class="botao" (click)="criarPensamento()">Salvar</button>
-      <button class="botao" (click)="excluirPensamento()">Cancelar</button>
+      <!--routerLink = com o componente cadastrado, basta apenas informar o nome do componente-->
+      <button routerLink="/listarPensamento" class="botao" (click)="excluirPensamento()">Cancelar</button>
     </div>
   </form>
 </section>
