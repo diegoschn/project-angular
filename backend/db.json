@@ -1,22 +1,40 @@
 {
   "pensamentos": [
     {
-     "id": 1,
-     "conteudo": "Quem bom q vc veio",
-     "autoria": "Diego",
-     "modelo": "modelo 1"
+      "id": 1,
+      "conteudo": "Quem bom q vc veio",
+      "autoria": "Diego",
+      "modelo": "modelo1"
     },
     {
-     "id": 2,
-     "conteudo": "Estudando angular",
-     "autoria": "Diego",
-     "modelo": "modelo 2"
+      "id": 2,
+      "conteudo": "Estudando angular",
+      "autoria": "Diego",
+      "modelo": "modelo2"
     },
     {
-     "id": 3,
-     "conteudo": "Angular é o melhor",
-     "autoria": "Diego",
-     "modelo": "modelo 3"
+      "id": 3,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Diego",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "teste",
+      "autoria": "teste",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "Aprendendo muito Angular :D",
+      "autoria": "Diego",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 6,
+      "conteudo": "Estudando Angular",
+      "autoria": "Alura",
+      "modelo": "modelo3"
     }
   ]
 }
