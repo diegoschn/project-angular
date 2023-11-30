@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Quem bom q vc veio",
-      "autoria": "Diego",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Estudando angular",
       "autoria": "Diego",
